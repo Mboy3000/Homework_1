@@ -19,7 +19,7 @@ if(numberOfToppings>10){
     console.log("That's a whole lot of pizza!");
 }
 else{
-    console.log(`Tuality over quantity`);
+    console.log(`Quality over quantity`);
 }
 //Add, commit, and push your JS file to your GitHub repo.
 //Send your TA a link to your GitHub Homework repo when finished.
