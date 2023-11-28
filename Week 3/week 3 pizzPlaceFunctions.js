@@ -19,6 +19,12 @@ greeting += `${topping}`;
 }
 console.log(greeting);
 }
+
+
+// bonous challange
+pizzaTopping.splice(-1,0," and ");
+//bonous challange
+
 greetCustomer();// "invokes" or "calls"  the function greetCustomer.
 
 
@@ -71,3 +77,5 @@ servePizza(cookedPizza);
 // has a parameter of pizza object
 /*logs a message that the pizza is ready and repeats the order, I.E. "Order up heres your large"*/
 // out puts the same pizzObject that was passed in
+
+
