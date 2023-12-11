@@ -1,0 +1,47 @@
+*{
+  padding: 0px;
+  margin:0px;
+}
+html {
+  background-color: antiquewhite;
+}
+
+body {
+  text-align: center;
+  font-size: 18px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+img {
+  height: 50%;
+  width: 50%;
+  border-radius: 15px;
+}
+
+div {
+  border: 2px solid burlywood;
+  margin: 10px;
+  overflow:hidden;
+}
+
+#introPic {
+  float: left;
+}
+
+#bio {
+  float: right;
+}
+#bio > li {
+  padding: 2px;
+}
+
+#pro {
+  width: auto;
+}
+
+#ul{
+  margin-bottom: 20px;
+}
